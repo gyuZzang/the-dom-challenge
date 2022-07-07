@@ -1,0 +1,18 @@
+.box {
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.black {
+    background: black;
+}
+
+.row {
+    display: flex;
+}
+
+.active {
+    background: red;
+}
